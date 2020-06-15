@@ -1,0 +1,4 @@
+This ismy first file - Hi
+This is modified for conflict
+his
+he
